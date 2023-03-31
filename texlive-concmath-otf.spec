@@ -1,6 +1,6 @@
 Name:		texlive-concmath-otf
 Version:	64924
-Release:	1
+Release:	2
 Summary:	Concrete based OpenType Math font
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/concmath-otf
