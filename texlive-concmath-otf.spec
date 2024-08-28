@@ -1,5 +1,5 @@
 Name:		texlive-concmath-otf
-Version:	69479
+Version:	70294
 Release:	1
 Summary:	Concrete based OpenType Math font
 Group:		Publishing
