@@ -3,7 +3,7 @@ Version:	70294
 Release:	1
 Summary:	Concrete based OpenType Math font
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/concmath-otf
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/concmath-otf
 License:	ofl lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/concmath-otf.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/concmath-otf.doc.r%{version}.tar.xz
